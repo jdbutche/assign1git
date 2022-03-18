@@ -2,6 +2,4 @@
 #first comment
 #TEST BRANCH CHANGE
 Assignment 1
-#NEW GIT BRANCH ON GITHUB1
 #CHANGE ON NEW BRANCH
-
